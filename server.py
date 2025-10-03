@@ -45,7 +45,7 @@ class CustomHandler(http.server.SimpleHTTPRequestHandler):
             super().do_POST()
 
 if __name__ == "__main__":
-    PORT = 8082
+    PORT = 5000
     with socketserver.TCPServer(("", PORT), CustomHandler) as httpd:
         print("Qoqon University Alumni server http://localhost:" + str(PORT) + " da ishlayapti")
         httpd.serve_forever()
