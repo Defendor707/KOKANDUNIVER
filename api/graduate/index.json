@@ -1,0 +1,10 @@
+{
+  "graduates": [
+    { "id": 1, "name": "Ali Valiyev", "year": 2020, "degree": "Bachelor", "image": "/placeholder.svg", "group_name": "Computer Science 2020", "education_type_name": "Bachelor" },
+    { "id": 2, "name": "Gulnora Karimova", "year": 2019, "degree": "Master", "image": "/placeholder.svg", "group_name": "Business Administration 2019", "education_type_name": "Master" },
+    { "id": 3, "name": "Jasur Saidov", "year": 2021, "degree": "PhD", "image": "/placeholder.svg", "group_name": "Physics 2021", "education_type_name": "PhD" }
+  ],
+  "currentPage": 1,
+  "totalPages": 1,
+  "totalItems": 3
+}

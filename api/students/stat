@@ -1,0 +1,46 @@
+{
+  "total_students": 4661,
+  "masters": 657,
+  "bachelors": 676,
+  "phd": 20,
+  "education_type": {
+    "bachelor_male": 1200,
+    "bachelor_female": 1800,
+    "master_male": 300,
+    "master_female": 357
+  },
+  "age": {
+    "bachelor_under_30_male": 800,
+    "bachelor_under_30_female": 1000,
+    "bachelor_over_30_male": 400,
+    "bachelor_over_30_female": 800,
+    "master_under_30_male": 150,
+    "master_under_30_female": 200,
+    "master_over_30_male": 150,
+    "master_over_30_female": 157
+  },
+  "level": {
+    "bachelor": 3000,
+    "master": 657,
+    "phd": 20,
+    "dsc": 2,
+    "independent_researcher_dsc": 1,
+    "independent_researcher_phd": 37
+  },
+  "region": {
+    "Toshkent": 1500,
+    "Samarqand": 800,
+    "Buxoro": 600,
+    "Fargona": 700,
+    "Andijon": 500,
+    "Namangan": 400,
+    "Qashqadaryo": 300,
+    "Surxondaryo": 200,
+    "Jizzax": 150,
+    "Sirdaryo": 100,
+    "Navoiy": 80,
+    "Xorazm": 120,
+    "Qoraqalpogiston": 90,
+    "Boshqa": 21
+  }
+}
